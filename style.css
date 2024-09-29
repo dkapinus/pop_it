@@ -99,6 +99,7 @@ header a {
     cursor: pointer;
     font-size: large;
     text-transform: uppercase;
+    color: black;
 }
 
 .products {
@@ -148,6 +149,7 @@ header a {
     font-size: large;
     text-transform: uppercase;
     cursor: pointer;
+    color: black;
 }
 
 .burger {
@@ -233,7 +235,7 @@ footer a {
     .product button {
         display: flex;
         justify-content: center;
-        align-content: center;
+        align-items: center;
     }
 
     footer {
